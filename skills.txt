@@ -1,0 +1,18 @@
+Documentattion: [D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[DNesting [D[D[D[D[D[D[T[C[C[C[C[C[C[CDocumentation: Check Lists:
+                       Test Cases;[A[;[B
+                       Bug Reports;
+                       Mind Maps
+
+Instruments: Linux Terminal;
+             Charles;
+             Postman;
+             Jmeter;
+             [A[C[C[C[C[C[C[
+Other:        [D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D
+[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[D[D[D[C[D
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C
+                 [D[D[D[DSQL;
+             Sgram[D[Dcru[C;
+             Pythion[D[D[C[[3~[3~[3~[C[Con
