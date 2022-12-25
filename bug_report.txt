@@ -1,1 +1,13 @@
-
+ID  BR-1
+Severity         Trivial
+Priority         Low
+Environment      Windows 10 Chrome 87.0.4280.88 (64 бит)
+Precondition     Открыт сайт capitan.com 
+Title            Отсутствует искомая статья в результатах поиска по сайту в разделе Articles при точном задании в строке поиска ее названия
+Link             link
+STR              1. Установить курсор в строку поиска 
+                 2. Ввести "Haven-sent gains for the euro"
+                 3. Перейти на вкладку Articles
+Actual Result    Статья с искомым названием отсутсвует в поисковой выдаче  
+Expected Result  Статья с искомым названием находится на одной из страниц
+              
