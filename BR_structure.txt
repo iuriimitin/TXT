@@ -1,0 +1,10 @@
+1. BR№
+2. Title
+3. Severity
+Prioryt[D[D[D[D[D[D[D4. Priority
+5.Environment[D[D[D[D[D[D[D[D[D[D[D Environment
+6. Preconditions
+7. Steps
+8. Actual result
+9. Expected result
+10. Author
